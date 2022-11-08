@@ -1,0 +1,31 @@
+.parentDiv{
+    display: flex;
+}
+.boxDiv{
+    background-color: yellow;
+    padding: 50px;
+    margin: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+.circleDiv{
+    background-color: green;
+    padding: 50px;
+    margin-left: 120px;
+    border-radius: 20px;
+}
+.box1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin: 0px;
+    }
+
+    .circle2{
+        background-color: blue;
+        height: 100px;
+        width: 100px;
+        margin: 0px;
+        border-radius: 50px;
+    }
